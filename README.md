@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # imoocmall
 
 > Imooc Mall 
@@ -19,3 +20,6 @@ npm run build --report
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# vueProject
+>>>>>>> c21fcbb917538a743292114b103c5ecdc5dbaee0
